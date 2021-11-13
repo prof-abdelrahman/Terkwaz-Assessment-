@@ -16,24 +16,24 @@ The project is implemented in modular design by using the Page Object Model desi
 
 # The assignment consists of two required sections:
 
-#Web GUI Test Automation:
-First Test
-Navigate to "https://www.google.com/ncr" 
-Search for "selenium webdriver" 
-Check that the third result text contains "What is Selenium WebDriver?" 
-Second Test
-Navigate to "https://the-internet.herokuapp.com/" 
-Click on "File Upload" 
-Upload any small image file 
-Check that the file has been uploaded successfully 
-Third Test
-Navigate to "https://the-internet.herokuapp.com/" 
-Click on "Dynamic Loading" 
-Click on "Example 2" 
-Click "Start" 
-Wait for loading to finish 
-Check that the text displayed is "Hello World!" 
-API Test Automation:
-Navigate to "https://alexwohlbruck.github.io/cat-facts/" 
-Use the relevant API endpoint to get one random cat fact 
-Check that the response "text" is not empty
+- Web GUI Test Automation:
+-- First Test
+--- Navigate to "https://www.google.com/ncr" 
+--- Search for "selenium webdriver" 
+--- Check that the third result text contains "What is Selenium WebDriver?" 
+-- Second Test
+--- Navigate to "https://the-internet.herokuapp.com/" 
+---- Click on "File Upload" 
+---- Upload any small image file 
+---- Check that the file has been uploaded successfully 
+-- Third Test
+--- Navigate to "https://the-internet.herokuapp.com/" 
+--- Click on "Dynamic Loading" 
+--- Click on "Example 2" 
+--- Click "Start" 
+--- Wait for loading to finish 
+--- Check that the text displayed is "Hello World!" 
+- API Test Automation:
+-- Navigate to "https://alexwohlbruck.github.io/cat-facts/" 
+-- Use the relevant API endpoint to get one random cat fact 
+-- Check that the response "text" is not empty
