@@ -14,7 +14,7 @@ The project is implemented in modular design by using the Page Object Model desi
 - RESTAssured
 - TestNG
 
-# The assignment consists of two required sections:
+# The Assignment Consists of Two Required Sections:
 
 ## Web GUI Test Automation:
 - First Test
