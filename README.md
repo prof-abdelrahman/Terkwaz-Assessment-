@@ -17,10 +17,10 @@ The project is implemented in modular design by using the Page Object Model desi
 # The assignment consists of two required sections:
 
 - Web GUI Test Automation:
-1- First Test
-2- Navigate to "https://www.google.com/ncr" 
-3- Search for "selenium webdriver" 
-4- Check that the third result text contains "What is Selenium WebDriver?" 
+1. First Test
+2. Navigate to "https://www.google.com/ncr" 
+3. Search for "selenium webdriver" 
+4. Check that the third result text contains "What is Selenium WebDriver?" 
 -- Second Test
 --- Navigate to "https://the-internet.herokuapp.com/" 
 ---- Click on "File Upload" 
