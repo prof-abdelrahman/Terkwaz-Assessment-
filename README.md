@@ -18,9 +18,9 @@ The project is implemented in modular design by using the Page Object Model desi
 
 ## Web GUI Test Automation:
 - First Test
-2. Navigate to "https://www.google.com/ncr" 
-3. Search for "selenium webdriver" 
-4. Check that the third result text contains "What is Selenium WebDriver?" 
+1. Navigate to "https://www.google.com/ncr" 
+2. Search for "selenium webdriver" 
+3. Check that the third result text contains "What is Selenium WebDriver?" 
 - Second Test
 1. Navigate to "https://the-internet.herokuapp.com/" 
 2. Click on "File Upload" 
