@@ -7,6 +7,12 @@ Selenium WebDriver is using for the Web GUI Test Automation, and RestAssured is 
 # Technicality:
 The project is implemented in modular design by using the Page Object Model design pattern. 
 
+# Test Automation Programming language and tools:
+- Java 17
+- Maven
+- Selenium
+- RESTAssured
+- TestNG
 
 The assignment consists of two required sections:
 
