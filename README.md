@@ -1,10 +1,10 @@
 # Terkwaz Assessment For Web GUI Test Automation (Selenium) and API Test Automation (RestAssured)
-Environment:
+# Environment:
 
 Project is done using a Java/Maven project. 
 Selenium WebDriver is using for the Web GUI Test Automation, and RestAssured is used for the API Test Automation.
 
-Technicality:
+# Technicality:
 
 The project is implemented in modular design by using the Page Object Model design pattern. 
 
