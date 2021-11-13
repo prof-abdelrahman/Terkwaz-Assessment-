@@ -1,1 +1,1 @@
-# Terkwaz Assessment Using Web GUI Test Automation and API Test Automation
+# Terkwaz Assessment For Web GUI Test Automation (Selenium) and API Test Automation (Rest Assured)
