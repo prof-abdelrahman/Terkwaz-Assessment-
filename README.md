@@ -1,7 +1,7 @@
 # Terkwaz Assessment For Web GUI Test Automation (Selenium) and API Test Automation (Rest Assured)
-Environment Requirements:
+Environment:
 
-project should be a Java/Maven project. 
+project is done using a Java/Maven project. 
 allowed to use any frameworks to perform this task (Such as Selenium WebDriver, and RestAssured). 
 Technical requirements:
 
