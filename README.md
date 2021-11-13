@@ -1,21 +1,13 @@
-# Terkwaz Assessment For Web GUI Test Automation (Selenium) and API Test Automation (Rest Assured)
+# Terkwaz Assessment For Web GUI Test Automation (Selenium) and API Test Automation (RestAssured)
 Environment:
 
-project is done using a Java/Maven project. 
-allowed to use any frameworks to perform this task (Such as Selenium WebDriver, and RestAssured). 
-Technical requirements:
+Project is done using a Java/Maven project. 
+Selenium WebDriver is using for the Web GUI Test Automation, and RestAssured is used for the API Test Automation.
 
-The project should implement modular design by using the Page Object Model design pattern. 
-Acceptable design and distribution of the test cases/classes is required. 
-Externalizing test data is worth a bonus point. 
-Creating an automated test execution report is required. 
-Attaching a screenshot to the report (in case of gui) is worth a bonus point. 
-Attaching the response body to the report (in case of api) is worth a bonus point. 
-Creating a ReadMe file describing the project and how to use it is required. 
-Documenting your code is worth a bonus point. 
-You can deliver your project as an archive uploaded to any accessible file sharing service (Such as Google Drive). 
-You earn a bonus point for delivering the project as a GitHub repo. 
-For self-evaluation, please note that there is a total of 5 required items and 5 bonus points to be earned.
+Technicality:
+
+The project is implemented in modular design by using the Page Object Model design pattern. 
+
 
 The assignment consists of two required sections:
 
