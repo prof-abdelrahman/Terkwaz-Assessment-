@@ -14,9 +14,9 @@ The project is implemented in modular design by using the Page Object Model desi
 - RESTAssured
 - TestNG
 
-The assignment consists of two required sections:
+# The assignment consists of two required sections:
 
-Web GUI Test Automation:
+#Web GUI Test Automation:
 First Test
 Navigate to "https://www.google.com/ncr" 
 Search for "selenium webdriver" 
